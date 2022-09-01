@@ -1,0 +1,13 @@
+package com.patterns.NullObjectPattern;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class NullObjectPatternApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(NullObjectPatternApplication.class, args);
+	}
+
+}
