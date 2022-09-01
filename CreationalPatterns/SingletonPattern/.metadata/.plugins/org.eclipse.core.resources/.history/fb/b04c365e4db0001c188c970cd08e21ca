@@ -1,0 +1,7 @@
+package ThreadSafeLazySingleton;
+
+public enum Notes {
+
+	//Problem 
+	//Birden fazla thread
+}

@@ -1,0 +1,12 @@
+
+package BasicPattern;
+
+/**
+ * @author akin
+ *
+ */
+public interface AnAbstraction {
+	
+	void doIt();
+
+}

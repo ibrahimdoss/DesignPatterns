@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Random"/>
+    <fullyQualifiedTypeName name="employeeSolutionFm1.Manager"/>
+    <fullyQualifiedTypeName name="employeeSolutionFm1.Director"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="employeeSolutionFm1.Employee"/>
+    <fullyQualifiedTypeName name="accountSolution2.AccountFactory"/>
+    <fullyQualifiedTypeName name="accountDomain.Customer"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+    <fullyQualifiedTypeName name="java.util.Locale"/>
+    <fullyQualifiedTypeName name="org.hibernate.engine.transaction.jta.platform.spi.JtaPlatformException"/>
+    <fullyQualifiedTypeName name="ExampleAppProblem.JTUserr"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ"/>
+    <fullyQualifiedTypeName name="builderComputerDomain.RAM"/>
+    <fullyQualifiedTypeName name="builderComputerDomain.Computer"/>
+    <fullyQualifiedTypeName name="builderComputerDomain.CPU"/>
+</qualifiedTypeNameHistroy>

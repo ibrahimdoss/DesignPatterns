@@ -1,0 +1,31 @@
+package SolutionAf3;
+
+public enum Notes {
+	
+//	Eğer bir nesne ailesi değil de birden çok nesne ailesi varsa her aile için
+//	farklı bir Abstract Factory ve hiyerarşisi olur.
+//	
+//	 Benzer şekilde birlikte kullanılacak nesnelerin yani nesne ailesinin, birden
+//	fazla ortam/platform için yaratılmaları söz konusuysa Abstract Factory
+//	arayüzünün her ortam/platform için farklı bir gerçekleştirmesi de olabilir.
+//	
+//	 Dolayısıyla her Abstract Factory gerçekleştirmesinde ailenin her ferdi
+//	için ayrı bir Factory Method bulunur.
+	
+	
+//	Burada sadece component değil de farklı ailelerin de oldugunu düsünürsek, o zaman ise 
+//	onlar icin de factory olusturup ilerlenebilir.
+//	
+//	Button, list ve table' önceden birlikte üretiyorduk ama burada hiyerarşideki aile arttığı icin 
+//	artık buttonların osxbutton, listlerin osx'ni ve tableların osx'ni bir arada üretiyorum, bunların yine
+//	aynı sekilde  win kısımlarını da bir arada üretmis oluyoruz.
+	
+	
+//	Sağ tarafta üreteceğimiz nesne hiyerarşisi var. asagıda platforma göre dallanıyor. Burada ne kadar platform varsa
+//	GUI factory'nin de o kadar implementi olacaktır.
+//	
+//	GUI factory icinde ise bir tek platform icin var. Ailedeki bütün nesneleri yaratacak factory methotlar vardır.
+//	O yüzden buna abstractFactory diyoruz.
+	
+	
+}

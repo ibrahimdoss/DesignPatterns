@@ -1,0 +1,5 @@
+package visitorFilePattern1;
+
+public enum SolutionNotes {
+
+}

@@ -1,0 +1,10 @@
+package compositeFileSystem;
+
+public enum SolutionNotes {
+	
+//	Benzer durum işletim sistemlerindeki dosyalar için de söz konusudur.
+	
+//	 Dizinler, farklı dizin, dosya, kısa yol vb. yapıları barındırırlar.
+	 
+//	 Burada dizin, bileşik nesnedir, dizin, dosya vs. de parçadır.
+}

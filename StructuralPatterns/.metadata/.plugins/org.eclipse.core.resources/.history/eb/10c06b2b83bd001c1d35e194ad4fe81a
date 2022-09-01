@@ -1,0 +1,15 @@
+package Toast.problem;
+
+public enum ToastProblem {
+	
+	//TODO PROBLEM
+	
+//	SausageCheeseToast ve SausageCheeseDomatoToast nasıl oluşturulur?
+	
+//	• Bu yaklaşımla kac tane alt sınıfa ihtiyaç olur?
+//			
+//	• Diğer problem ise henüz alt sınıfı geliştirilmemiş tipte bir tost istendiğinde bu yapıda bunu 
+//	yapmanın imkansız olması ve ancak yeni alt sınıf geliştirmekle yapılabileceğidir.
+//	
+//	• Bu ise sıkıntılı bir yaklaşımdır. //CD1.png image referans alınabilir.
+}

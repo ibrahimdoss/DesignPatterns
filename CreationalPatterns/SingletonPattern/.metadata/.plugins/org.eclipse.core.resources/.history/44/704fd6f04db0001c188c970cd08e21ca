@@ -1,0 +1,23 @@
+package ThreadSafeLazySingleton;
+
+public enum Notes {
+
+	//Problem 
+	//Birden fazla thread
+	
+//	Bu durumda thread safety sağlamak için getInstance() metodunun
+//	aynı anda sadece bir tek kanal tarafından çağrılabileceğinden emin
+//	olmak gereklidir.
+//	
+//	 Dışlayıcı kilit (mutex lock) kullanılmalıdır bu da synchronized ile sağlanıyor.
+//	 
+//	 Bu amaçla getInstance() metodund Java’da synchronized ile
+//	tüm metodun ya da belirlenen kapsamın (scope) aynı anda sadece bir
+//	kanal tarafından çalıştırılması sağlanır.
+//	
+	
+	//Java’da getInstance() metodunun synchronized olarak
+	//nitelenmesindense sadece gerekli bloğun synchronized yapılması
+	//performans açısından daha uygundur.
+	
+}

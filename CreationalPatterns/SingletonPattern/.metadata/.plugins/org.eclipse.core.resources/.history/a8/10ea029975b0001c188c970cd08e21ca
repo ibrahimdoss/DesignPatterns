@@ -1,0 +1,5 @@
+package UpdatableSingleton;
+
+public class UpdatableSingleton {
+
+}

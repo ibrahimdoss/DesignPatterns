@@ -1,0 +1,5 @@
+package ShapePattern;
+
+public enum SolutionNotes {
+
+}

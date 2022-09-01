@@ -1,0 +1,10 @@
+package visitorFileProblem2;
+
+public enum Notes {
+
+//	Bir başka çözüm, başka bir nesnenin File nesnelerinin tipine bakarak ne yapacağına 
+//	karar vermesi olabilir.
+//	
+//	TextFile için format, XMLFile için de doğrulama (validate) ihtiyaçları, 
+//	FileOperator sınıfı ile halledilebilir.
+}

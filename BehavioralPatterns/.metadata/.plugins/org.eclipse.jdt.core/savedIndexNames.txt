@@ -1,0 +1,23 @@
+INDEX VERSION 1.131+C:\DesignPatternCourse\BehavioralPatterns\.metadata\.plugins\org.eclipse.jdt.core
+1611121547.index
+4205164581.index
+2247989691.index
+3957454558.index
+1049613170.index
+1362952707.index
+2390277040.index
+2366488166.index
+776649106.index
+4103731499.index
+3282349698.index
+3237144582.index
+705799420.index
+515996178.index
+2470116936.index
+4131327607.index
+885059699.index
+1902758424.index
+3424655651.index
+196973030.index
+130580523.index
+938764892.index

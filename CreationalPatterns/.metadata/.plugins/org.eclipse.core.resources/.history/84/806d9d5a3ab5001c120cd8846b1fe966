@@ -1,0 +1,19 @@
+package ExampleAppProblem;
+
+import java.util.Locale;
+
+import javax.servlet.Registration;
+import javax.servlet.http.HttpServletRequest;
+
+import org.hibernate.engine.transaction.jta.platform.spi.JtaPlatformException;
+
+public class JTUserr {
+	
+	public JTUser execute(Registration form, HttpServletRequest request, Locale locale) throws JtaPlatformException{
+		
+		String uid = Utils.generateUUID();
+	}
+	
+	
+
+}

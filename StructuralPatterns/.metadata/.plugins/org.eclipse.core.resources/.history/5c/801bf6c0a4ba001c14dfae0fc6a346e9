@@ -1,0 +1,19 @@
+package ComputerProblem;
+
+public enum ProblemNotes {
+	
+	//Computer pek çok parçayı bir araya getiren bir sistemdir.
+	
+	İstemcilerin Computer sisteminden hizmet almak üzere onun CPU, Display vb. nesnelerine ulaşması her 
+	zaman istenen bir durum değildir.
+	• Bu istemcileri karmaşık ve kırılgan yapar.
+	
+	• Client’ın start() metodunun iki problemi vardır:
+		
+		• Computer sistemini ayağa kaldırma sürecinin tüm detaylarını bilmesi
+		
+		• Bu sürece ve süreçte bulunan nesnelere olan bağımlılığının yüksek olması
+		
+	• Bu yüzden gerçek bir projede iş süreçlerinden haberdar olan istemciler çok karmaşık 
+	ve kırılgan olma eğilimindedir.
+}

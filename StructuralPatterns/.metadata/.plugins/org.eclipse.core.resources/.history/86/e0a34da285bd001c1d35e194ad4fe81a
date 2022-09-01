@@ -1,0 +1,18 @@
+package ToastSolution;
+
+public enum SolutionNotesContinue {
+	
+//	• Bu çözümde farklı içerikteki tostların fiyatının nasıl hesaplanacağı modellenmiştir.
+	
+//	• Bundan dolayı Toastable‘ın calculatePrice() metodu tüm alt sınıflar tarafından override edilir.
+	
+//	• Topping, soyut bir sınıftır ve dekoratörlerin ebeveynidir.
+//	
+//	• Tost, aslen bir Toastable nesnesidir ve ToastBread nesnesi ile başlar ve ona dekoratörler eklenerek devam eder.
+//	
+//	• Tosta hangi malzemeler konacak ise onun dekoratör nesneleri sırayla ToastBread nesnesine eklemlenir.
+//	//örnegi
+//	Toastable ayvalıkToast = new ToastBread("Toast bread", 5);
+//	ayvalıkToast = new Cheese(ayvalıkToast, "Cheddar cheese", 3);
+
+}

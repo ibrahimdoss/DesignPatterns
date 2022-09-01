@@ -1,0 +1,7 @@
+package SingletonSerializableProblem;
+
+import java.io.Serializable;
+
+public class SingletonSerializable implements Serializable{
+
+}

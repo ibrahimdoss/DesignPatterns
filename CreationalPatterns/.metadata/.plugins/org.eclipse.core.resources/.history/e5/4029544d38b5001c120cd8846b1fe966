@@ -1,0 +1,13 @@
+package accountSolution4;
+
+public enum Notes {
+	
+//	Prototip nesneler ayrı bir yerde, örneğin AccountPrototypes isimli
+//	statik bir iç sınıfta (static inner class) tutulabilir.
+//	
+//	 Prototip sayısının artması durumunda bu yaklaşım, abstract factory
+//	sınıfını rahatlatır.
+	
+	//Çok fazla prototype varsa o zaman nesneyi bölmemiz lazım.
+
+}

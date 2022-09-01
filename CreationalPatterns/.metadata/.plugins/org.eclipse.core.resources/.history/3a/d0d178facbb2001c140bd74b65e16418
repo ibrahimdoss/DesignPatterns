@@ -1,0 +1,30 @@
+package employeeSolutionBloch;
+
+public enum Notes {
+
+//	J. Bloch ***Effective Java*** kitabında, kurucular yerine **static** üretici metotları tavsiye eder.
+//	
+//	 Çünkü kurucuların ayırt edici isimleri yoktur ve bu yüzden de çağrılmaları zordur, hataya açıktır.
+//	
+//	 *****Ama static metotların anlamlı isimleri vardır.
+//	
+//	 Nesnenin kurucuları ***private*** yapılır, nesneyi kurucuları çağıran ***static** üretici metotlar oluşturur.
+	
+	
+	//static üretici metotlar bir anlamda ****isimli kurucu (named constructors)****haline gelir.
+	
+	//static metoda geçilen parametresayısı, metotlara iyi isim vererek azaltılabilir.
+	 
+	//*****createNewTemporaryEmployee()metodu***** ***departmentı*** olmayan nesneyioluşturur.
+	
+	Nesneyi farklı durumlarda oluşturan static metotlar, kuruculara
+	alternatif ve daha kullanışlı çözümlerdir.
+	
+	 Bu çözümde her sınıf kendi nesnelesinin üreticisidir, bundan dolayı ayrı
+	arayüz ve gerçekleştirmelerine ihtiyaç kalmaz.
+	
+	 Dolayısıyla Factory Method’a göre daha az bürokrasi gerektiren,
+	alternatif ve güzel bir çözümdür.
+	
+	 Java için önerilmesine rağmen diğer OOP dillerinde de kullanılabilir.
+}

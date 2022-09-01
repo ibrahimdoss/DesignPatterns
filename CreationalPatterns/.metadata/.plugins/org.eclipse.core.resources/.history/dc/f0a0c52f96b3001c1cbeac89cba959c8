@@ -1,0 +1,13 @@
+package SolutionUniversityAf3;
+
+public enum Notes {
+	
+//	Benzer durum farklı ortam/platformlardaki nesnelerin farklı
+//	parametrelerle yaratılması durumunda da geçerlidir.
+//	
+//	 Bu durumdada ortak bir Abstract Factory atasından bahsetmek
+//	mümkün değildir çünkü factory metotlarının arayüzleri, ortam/
+//	platforma bağlıdır.
+	
+
+}

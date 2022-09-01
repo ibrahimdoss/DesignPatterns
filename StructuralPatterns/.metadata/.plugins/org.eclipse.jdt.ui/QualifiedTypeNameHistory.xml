@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="electricityDomainTR.HomeAppliance"/>
+    <fullyQualifiedTypeName name="electricityDomainTR.TurkishPowerProvider"/>
+    <fullyQualifiedTypeName name="electricityDomainUS.USPowerProvider"/>
+    <fullyQualifiedTypeName name="electricityDomainTR.Appliance"/>
+    <fullyQualifiedTypeName name="electricityDomainTR.TurkishHomeAppliance"/>
+    <fullyQualifiedTypeName name="electricityDomainTR.TurkishPowerSource"/>
+    <fullyQualifiedTypeName name="electricityDomainUS.USPowerSource"/>
+    <fullyQualifiedTypeName name="compositeFileSystem.Storage"/>
+    <fullyQualifiedTypeName name="compositeFileSystem.Directory"/>
+    <fullyQualifiedTypeName name="fileSystemIterator.DirectoryIterator"/>
+    <fullyQualifiedTypeName name="ComputerSolution.CPU"/>
+</qualifiedTypeNameHistroy>

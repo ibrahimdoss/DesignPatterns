@@ -1,0 +1,6 @@
+package SolutionAf1;
+
+interface GUIFactory {
+
+	public Component create();
+}

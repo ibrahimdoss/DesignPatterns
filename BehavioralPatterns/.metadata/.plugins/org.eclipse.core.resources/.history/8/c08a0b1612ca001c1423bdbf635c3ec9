@@ -1,0 +1,5 @@
+package visitorFactory;
+
+public enum Notes {
+
+}

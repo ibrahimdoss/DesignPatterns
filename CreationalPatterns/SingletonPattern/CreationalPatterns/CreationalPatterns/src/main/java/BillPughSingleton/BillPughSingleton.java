@@ -1,0 +1,34 @@
+package BillPughSingleton;
+
+public class BillPughSingleton {
+	
+	private static int count;
+    private String name;
+
+    private BillPughSingleton() {
+        name = "BillPughSingleton" + count;
+        count++;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    private static class SingletonHelper{ //private static inner classımız.
+        private static final BillPughSingleton INSTANCE = new BillPughSingleton();
+    }
+
+    public void printName() {
+        System.out.println(name);
+    }
+
+    public static BillPughSingleton getInstance(){
+        return SingletonHelper.INSTANCE; 
+    }
+    
+    //TODO: burada getInstance ilk çalıştığı zaman helpera gidiyor ve oradaki ınstance döndürüyor.
+    //TODO: JVM önce burayı initalize ediyor, bunu yüklerken üzerindeki static fieldı da initalize 
+   // oluşturuyor, objesini oluşturuyor, threadleri bekletiyor. bu JVM'in kendi içinde olan bir sistem.
+   // ondan sonra threadlere veriyor ve bu dolayısıyla thread-safe oluyor.
+    
+}

@@ -1,0 +1,6 @@
+package mementoPattern2;
+
+public enum Notes {
+	
+//	Bu örnekte Memento, Originator’ın bir iç sınıfıdır
+}

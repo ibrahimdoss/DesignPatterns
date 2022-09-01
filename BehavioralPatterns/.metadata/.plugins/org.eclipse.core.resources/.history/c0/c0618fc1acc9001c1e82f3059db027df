@@ -1,0 +1,5 @@
+package VisitorAnimalProblem;
+
+public interface Animal {
+	void eat();
+}

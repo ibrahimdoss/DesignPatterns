@@ -1,0 +1,15 @@
+package LazySingleton;
+
+public enum Notes {
+
+	//Geç yüklemeli (lazy loaded) singletonun problemi ise çok kanallı (multithreaded)
+	//ortamlarda probleme yol açmasıdır.
+	
+	//null kontrolünü aynı anda birden fazla kanalın yapması, birden fazla
+	//singleton nesnesinin oluşmasına sebep olur.
+	
+	//Bunun örneğini ise ThreadLazySingleton paketi içinde yapılmıştır.
+	
+	//TODO Solution : 
+		//Bu durumda Thread-Safe Lazy Loaded kullanılabilir.
+}

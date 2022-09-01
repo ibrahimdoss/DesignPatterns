@@ -1,0 +1,5 @@
+package imageWork.image;
+
+public enum ImageSolution {
+
+}

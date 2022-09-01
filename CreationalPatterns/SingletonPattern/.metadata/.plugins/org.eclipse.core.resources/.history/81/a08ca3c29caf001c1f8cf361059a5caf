@@ -1,0 +1,25 @@
+package Singleton.singletonExample;
+
+public class Singleton {
+	
+	private static Singleton singleton = new Singleton();
+	
+	private static int count;
+	private readonly String name;
+
+	private Singleton() {
+		count++;
+		name = "Singleton" + count;
+	}
+
+	public static Singleton getInstance() {
+		return singleton;
+	}
+
+	public void printName() {
+		System.out.println(name);
+	}
+	
+	//kaç tane oluşturmak istendiği için count++
+	//readonly
+}

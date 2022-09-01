@@ -1,0 +1,5 @@
+package statePerson;
+
+public enum Notes {
+
+}

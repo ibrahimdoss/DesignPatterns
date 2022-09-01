@@ -1,0 +1,15 @@
+package computerSolution5;
+
+public enum Notes {
+
+	//TODO GEÇ YÜKLEME -- LAZY LOADING
+	
+//	Bina sürecinde nesnenin gerçekten oluşturulduğu an, en son build() çağrısı yapılıncaya kadar geciktirilebilir.
+//			build() çağrısı yapılmadığında hiç bir nesne oluşturulmaz.
+//			
+//	Bu şekilde geç/sonradan yüklemeli (lazy-loaded) bina süreci oluşturulabilir.
+//	
+//	Bu amaçla builder nesnesi bina ettiği nesnenin durumuyla ilgili bilgi tutmalı ve build() 
+//	çağrısında bu bilgilere göre nesneyi oluşturmalıdır.
+	
+}

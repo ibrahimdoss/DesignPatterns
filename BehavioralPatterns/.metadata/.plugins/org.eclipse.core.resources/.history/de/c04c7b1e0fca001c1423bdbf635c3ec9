@@ -1,0 +1,18 @@
+package visitorFileProblem2;
+
+public enum Notes {
+
+//	Bir başka çözüm, başka bir nesnenin File nesnelerinin tipine bakarak ne yapacağına 
+//	karar vermesi olabilir.
+//	
+//	TextFile için format, XMLFile için de doğrulama (validate) ihtiyaçları, 
+//	FileOperator sınıfı ile halledilebilir.
+	
+	
+//	Bu çözümde FileOperator , File nesneleri üzerinde çalışabilir ama her
+//	farklı alt tip için ayrı bir davranış söz konusu olduğundan, if-else’e ve
+//	RTTI (Run-time Type Identification) için instanceof/is gibi yapılara ihtiyaç duyacaktır.
+//	
+//	
+//	• Buna double disptach denir.
+}

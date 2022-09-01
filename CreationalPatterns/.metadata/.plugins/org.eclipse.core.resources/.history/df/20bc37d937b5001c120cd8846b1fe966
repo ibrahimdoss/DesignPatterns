@@ -1,0 +1,5 @@
+package accountSolution4;
+
+public enum Notes {
+
+}

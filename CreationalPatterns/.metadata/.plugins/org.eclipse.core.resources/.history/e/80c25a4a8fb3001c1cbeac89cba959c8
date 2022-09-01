@@ -1,0 +1,5 @@
+package SolutionAf3;
+
+public interface Component {
+	public void paint();
+}

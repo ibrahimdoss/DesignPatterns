@@ -1,0 +1,5 @@
+package DoubleCheckedLockingSingleton;
+
+public class DoubleCheckedLockingSingleton {
+
+}

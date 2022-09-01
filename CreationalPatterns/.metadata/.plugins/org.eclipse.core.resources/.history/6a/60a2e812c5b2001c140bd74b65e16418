@@ -1,0 +1,5 @@
+package employee.SolutionFm4;
+
+public enum staticFactoryMethodClassNotes {
+
+}

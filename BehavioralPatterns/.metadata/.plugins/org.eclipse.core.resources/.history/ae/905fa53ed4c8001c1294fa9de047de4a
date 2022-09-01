@@ -1,0 +1,5 @@
+package mementoPattern1;
+
+public enum Notes {
+
+}

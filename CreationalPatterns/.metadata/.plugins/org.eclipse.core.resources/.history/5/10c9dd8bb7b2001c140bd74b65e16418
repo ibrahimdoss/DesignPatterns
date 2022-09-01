@@ -1,0 +1,5 @@
+package employeeProblem;
+
+public enum Notes {
+
+}

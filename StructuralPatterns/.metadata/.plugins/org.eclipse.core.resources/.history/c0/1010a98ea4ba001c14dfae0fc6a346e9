@@ -1,0 +1,5 @@
+package ComputerProblem;
+
+public enum ProblemNotes {
+
+}

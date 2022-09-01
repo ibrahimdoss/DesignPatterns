@@ -1,0 +1,9 @@
+package employeeSolutionFm2;
+
+public enum SolutionNotesFm2 {
+
+	//Burada fark create() methoduna parametre geciyoruz. Bu parametre sayısı artarsa constructor'a dogru dönüsecektir.
+	//factoryde cok parametre gecilirse elde edilen fayda azalır.
+	
+	//Mümkün oldukca az parametre gecilmeli.
+}

@@ -1,0 +1,8 @@
+package visitorFileProblem1;
+
+public enum Notes {
+	
+//	Bu ihtiyaçları, ilk akla gelen haliyle, TextFile ve XMLFile sınıfları üzerinde tanımlamak sonu
+//	gelmez bir çözümdür.
+
+}

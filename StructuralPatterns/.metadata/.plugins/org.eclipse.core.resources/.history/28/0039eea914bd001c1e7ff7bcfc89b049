@@ -1,0 +1,17 @@
+package exampleProject;
+
+public enum ProblemNotesContinue {
+
+	//Birliktelik-Bağımlılık-Değişim
+	
+	/*
+	 * • Vatandas nesnesinin birlikteliği yüksektir çünkü fonksiyonel olarak odaklı
+	 * iş yapmaktadır.
+	 * 
+	 * • Ama Başbakan’ın birlikteliği daha düşüktür çünkü farklı işleri bir araya
+	 * getirmiştir.
+	 * 
+	 * • Çözmek belki ama ayıklamak kesin olarak onun görevi değildir
+	 */
+	
+}

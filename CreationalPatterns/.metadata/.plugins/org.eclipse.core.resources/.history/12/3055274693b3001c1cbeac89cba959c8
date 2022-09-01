@@ -1,0 +1,15 @@
+package SolutionUniversityAf2;
+
+public enum Notes {
+	
+//	Bu çözümdeki en temel kısıt her ortam/platform için hep aynı grup
+//	nesnenin üretiliyor olmasıdır.
+//	
+//	 Eğer farklı ortam/platform için farklı türde nesneler üretiliyorsa bu
+//	durumda ortak bir Abstract Factory atasından bahsetmek mümkün
+//	değildir.
+//	
+//	 Bu durumda farklı Abstract Factory arayüzleri ile onları gerçekleştiren
+//	sınıflardan bahsedilir.
+
+}

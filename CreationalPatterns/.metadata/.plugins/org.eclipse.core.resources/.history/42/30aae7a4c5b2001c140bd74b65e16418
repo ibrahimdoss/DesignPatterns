@@ -1,0 +1,15 @@
+package employee.SolutionFm4;
+
+public enum staticFactoryMethodClassNotes {
+	
+//	Akla sıklıkla Factory’nin arayüz ya da soyut (abstract) sınıf yerine
+//	somut (concrete) sınıf olabileceği gelebilir.
+//	
+//	 Bu ancak soyut bir yapı ve bir hiyerarşi kullanmadan, utility sınıfı
+//	yaklaşımıyla çözüm bulma arayışının bir sonucudur.
+//	
+//	 Hatta create()metodu parametre alarak, hangi Employee
+//	nesnesinin yaratılacağına karar verebilir dolayısıyla her yeni Employee
+//	sınıfı için yeni bir Factory nesnesine ihtiyaç da kalmaz.
+
+}

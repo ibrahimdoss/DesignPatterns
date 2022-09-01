@@ -1,0 +1,8 @@
+package computerSolution2;
+
+
+public interface ComputerBuilderI {
+
+	public Computer build();
+
+}

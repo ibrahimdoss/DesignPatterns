@@ -1,0 +1,25 @@
+package employeeSolutionFm3;
+
+public enum SolutionNotesFm3 {
+	
+//	Önceki örnekte aynı miras hiyerarşisindeki nesnelerin tek bir Factory
+//	Method arayüzüyle oluşturulabileceği varsayılmıştı.
+//	
+//	 Nesneler arasında bir ilişki, akrabalık yoksa zaten tamamen farklı
+//	Factory Method arayüzleri kullanılmalıdır.
+//	
+//	TODO **** Eğer nesneler farklı parametrelerle oluşturuluyorsa ortak bir create()
+//	metodu dolayısıyla ortak bir ata arayüz kullanılamaz.
+//	
+//	TODO *****Bu durumda her nesne için ayrı bir arayüz ve farklı create() metotları
+//	oluşturulur.
+	
+	
+	Burada implemente kısmında parametre diğer nesneler icin belki gecerli değil, daha fazla parametre alabilir.
+	
+	Bunun icin employee, manager, director icin ayrı bir interface olusturuyoruz.
+	
+	Paket icindeki "fm3.png" de görüldüğü üzere create() methodundaki parametler degiskenlik gösterebilir.
+	
+
+}

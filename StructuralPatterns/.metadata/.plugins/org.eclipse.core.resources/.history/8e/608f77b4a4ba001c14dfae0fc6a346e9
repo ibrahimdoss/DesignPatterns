@@ -1,0 +1,6 @@
+package ComputerProblem;
+
+public enum ProblemNotes {
+	
+	//Computer pek çok parçayı bir araya getiren bir sistemdir.
+}

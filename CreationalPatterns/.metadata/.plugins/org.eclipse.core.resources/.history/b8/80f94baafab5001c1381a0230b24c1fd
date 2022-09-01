@@ -1,0 +1,5 @@
+package computerSolution2;
+
+public enum Notes {
+
+}

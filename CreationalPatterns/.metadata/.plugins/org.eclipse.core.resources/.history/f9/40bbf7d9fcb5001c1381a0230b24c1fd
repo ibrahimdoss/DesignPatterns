@@ -1,0 +1,24 @@
+package computerSolution4;
+
+public enum Notes {
+
+	//TODO DEĞİSMEZ NESNE
+	
+//	Karmaşık nesneyi bina eden builder, nesnenin içinde, örneğin bir iç
+//	sınıf (inner/nested class) olarak konumlandırılırsa nesnenin set
+//	metotlarından kurtulmak mümkün olur ve nesnenin kurucusu dışarıdan
+//	erişime kapatıulabilir.
+//	
+//	 Böylece oluşturulan nesnenin durumunun daha sonra değiştirilmesinin
+//	önüne geçilir ve değişmez nesne (immutable) elde edilir.
+//	
+//	 Bu durumda builder nesne, bina edilen nesneden alınır yani nesne
+//	kendi builder nesnesinin üretici metoduna (factory method) sahip olur.
+	
+	
+//	ComputerBuilderI değişemiştir ve Computer’in statik getBuilder() metoduyla alınır.
+//	
+//	• ComputerBuilder, Computer’in bir iç sınıfıdır.
+//	
+//	• Computer’da set metotları yoktur ve tüm kurucuları dışarıya kapatılmıştır.
+}

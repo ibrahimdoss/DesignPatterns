@@ -1,0 +1,12 @@
+package ShapePattern;
+
+public enum SolutionNotes {
+	
+//	• Eğer farklı platformlar varsa, her şeklin, Circle ve Rectangle, her platform için 
+//	ayrı ayrı alt sınıflarını üretmek gerekir.
+//	
+//	• Platform sayısı arttıkça, gerçekleştirmelerin yani alt sınıfların sayısı da artar.
+//	
+//	• Dahası, istemci nesnelerin souyutlamalar yanında onların platforma özel
+//	gerçekleştirmelerine de ihtiyacı olacaktır
+}

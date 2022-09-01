@@ -1,0 +1,13 @@
+package computerSolution7;
+
+public enum Notes {
+
+	//TODO SAFHALI VE SIRALI BUİLD
+	
+//	Safhalı inşada sıra önemliyse, builder nesnelerini alma da sıraya konmalıdır.
+//	
+//	Örneğin Computer’ üzerinden, sadece CPU, RAM ve HardDrive üreten BaseComputerBuilder nesnesi alınır.
+//	
+//	Sonrasında BaseComputerBuilderI nesnesinden ComputerDisplayBuilderI nesnesi, sonrasında ondan da
+//	 ComputerAccessoryBuilder nesnesinin alınmasıya safhalar sıraya konabilir.
+}

@@ -1,0 +1,6 @@
+package SolutionAf2;
+
+public enum Notes {
+
+	Metotları bir araya toparladık. Böyle yapınca metotlara farklı argümanlarda geçebiliriz.
+}

@@ -1,0 +1,8 @@
+package computerSolution2;
+
+public enum Notes {
+	
+	buradaki yapı computerSolution1 paketi icindeki yapı ile aynı
+	tek farkı builderInterface icindeki metotu teke indirmis olduk.
+
+}

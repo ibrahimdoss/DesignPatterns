@@ -1,0 +1,14 @@
+package employeeSolution;
+
+public enum SolutionNotes {
+
+//TODO	Factory Method kalıbı, ****nesnenin nerede yaratılacağı sorununu çözer:
+//		
+//		 Nesnelerin yaratılmalarını soyutlar ve bu işi istemci kodlarından çıkarıp
+//		“üretici” ya da “factory” metotlara havale eder.
+//		
+//		 Factory Method, nesnenin yaratılmasından sorumlu bir metottur öyle ki
+//		bir arayüzde tanımlanır ve alt sınıflarda gerçekleştirilir.
+//		
+//		 Her alt sınıf bir başka nesneyi oluşturur.
+}

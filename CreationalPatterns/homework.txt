@@ -1,0 +1,3 @@
+Farklı tipte Student sınıflarının olduğu bir yapıda Student
+nesnelerini Factory Method kalıbını kullanarak oluşturun.
+• Yukarıdaki problemi Bloch’un yaklaşımını kullanarak modelleyin

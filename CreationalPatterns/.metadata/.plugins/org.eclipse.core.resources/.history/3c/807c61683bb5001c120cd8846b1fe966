@@ -1,0 +1,7 @@
+package ExampleAppProblem;
+
+public enum SolutionNotes {
+	
+	1- true, true kısımları kaldırmamız gerek bunları kaldırıp isime cevirmemiz lazım.
+
+}

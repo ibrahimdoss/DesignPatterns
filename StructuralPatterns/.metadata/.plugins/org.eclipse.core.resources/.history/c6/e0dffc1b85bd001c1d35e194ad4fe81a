@@ -1,0 +1,16 @@
+package ToastSolution;
+
+public enum SolutionNotes {
+	
+//	• Çözüm, miras (inheritance) ile is-a ilişkisi yerine nesne bileşimi (object compositon) ile 
+//	has-a ilişkisini kullanmada yatar.
+//	
+//	• Yeni sorumlulukları yeni alt sınıflarla yerine gtirmektense, alt sınıf ihtiyacını doğuran şeyi 
+//	bir dekorasyon/bezeme malzemesi, nesnesi olarak görmek ve sınıfın nesnelerine eklemek daha sağlıklıdır.
+//	
+//	• Bu şekilde nesnenin en basit halinden başlayarak farklı dekorasyonlar uygulamak mümkün olacaktır.
+	
+	
+	
+	
+}

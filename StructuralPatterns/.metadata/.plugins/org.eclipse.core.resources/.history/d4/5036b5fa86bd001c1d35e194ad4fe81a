@@ -1,0 +1,17 @@
+package ToastSolution;
+
+public enum SolutionNotes3 {
+	
+//	Ayrıca Topping, Toastable’ın getToppings() metodunada
+//	gerçekleştirme sağlar.
+//	
+//	public abstract class Topping implements Toastable{
+//	…
+//	@Override
+//	public List<Topping> getToppings() {
+//	List<Topping> toppings = toastTopping.getToppings();
+//	toppings.add(this);
+//	return toppings;
+//	}
+//	}
+}

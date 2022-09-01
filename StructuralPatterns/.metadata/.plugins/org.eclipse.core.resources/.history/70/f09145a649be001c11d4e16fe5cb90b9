@@ -1,0 +1,5 @@
+package ShapeProblem.problem;
+
+public enum ProblemNotes {
+
+}

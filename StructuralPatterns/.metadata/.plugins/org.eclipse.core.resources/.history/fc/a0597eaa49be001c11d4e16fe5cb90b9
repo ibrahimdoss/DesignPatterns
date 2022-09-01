@@ -1,0 +1,8 @@
+package ShapeProblem.problem;
+
+public enum ProblemNotes {
+	
+	Hiyerarşideki Circle ve Rectangle soyut sınıflardır ve farklı platformalar için gerçekleştirmeleri olacaktır.
+	ClassDiagram1 referans alınacak.
+	
+}

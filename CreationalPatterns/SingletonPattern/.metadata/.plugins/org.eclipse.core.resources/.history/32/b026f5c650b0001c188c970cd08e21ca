@@ -1,0 +1,17 @@
+package DoubleCheckedLockingSingleton;
+
+public enum Notes {
+	
+//	Singleton nesneye olan referansın null olup olmadığının, birisi kilitli
+//	blokta diğeri ise öncesinde olmak üzere iki defa kontrol edildiği çözüme
+//	Double-Checked Locking kalıbı denir.
+//	
+//	 Burada iki defa null kontrolü yapılmaktadır.
+//	
+//	 Mutex lock null kontrolü, singleton nesne oluşuncaya kadar çalışır.
+//	
+//	 Singleton nesne thread-safe olarak oluşturulduktan sonra çalışma ilk null
+//	kontrolü true döndüreceğinden bir daha mutex lock alanına girmez.
+//	
+//	 Bu da performans kazanımı sağlar.
+}

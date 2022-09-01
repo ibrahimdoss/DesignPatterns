@@ -1,0 +1,17 @@
+package employeeSolutionFm2;
+
+public enum ParametreliFactoryMethodNotes {
+	
+//	Burada bir diğer önemli nokta da, nesne oluşturmak için gerekli durum
+//	bilgisinin olabildiğince create() metodunda oluşturması ya da bu metot
+//	tarafından elde edilmesidir.
+//	
+//	 Yani karmaşık nesneleri oluşturmak için gerekli parametrelerinin
+//	olabildiğince create() metodu tarafından temin edilmesi tercih
+//	edilmelidir.
+//	
+//	 Bu durumda create() metoduna parametre geçmeye gerek
+//	kalmayabilir ya da daha az geçilir.
+	
+
+}

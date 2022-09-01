@@ -1,0 +1,5 @@
+package Basbakan;
+
+public enum Notes {
+
+}

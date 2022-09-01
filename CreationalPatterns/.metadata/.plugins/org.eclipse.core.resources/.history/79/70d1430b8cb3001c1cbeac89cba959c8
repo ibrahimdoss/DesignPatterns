@@ -1,0 +1,5 @@
+package SolutionAf2;
+
+public enum Notes {
+
+}

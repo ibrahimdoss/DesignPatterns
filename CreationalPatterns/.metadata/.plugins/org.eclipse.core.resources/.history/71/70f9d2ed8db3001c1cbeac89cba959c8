@@ -1,0 +1,18 @@
+package SolutionAf3;
+
+public enum Notes {
+	
+//	Eğer bir nesne ailesi değil de birden çok nesne ailesi varsa her aile için
+//	farklı bir Abstract Factory ve hiyerarşisi olur.
+//	
+//	 Benzer şekilde birlikte kullanılacak nesnelerin yani nesne ailesinin, birden
+//	fazla ortam/platform için yaratılmaları söz konusuysa Abstract Factory
+//	arayüzünün her ortam/platform için farklı bir gerçekleştirmesi de olabilir.
+//	
+//	 Dolayısıyla her Abstract Factory gerçekleştirmesinde ailenin her ferdi
+//	için ayrı bir Factory Method bulunur.
+	
+	
+	
+
+}

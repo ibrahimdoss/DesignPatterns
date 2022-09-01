@@ -1,0 +1,5 @@
+package Toast;
+
+public enum ToastProblem {
+
+}

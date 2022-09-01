@@ -1,0 +1,13 @@
+package computerSolution6;
+
+import builderComputerDomain.Computer;
+
+public interface AccessoryBuilderI {
+	
+	public AccessoryBuilderI buildMouse();
+	
+	public AccessoryBuilderI buildKeyboard();
+
+	public Computer buildAccessories();
+
+}

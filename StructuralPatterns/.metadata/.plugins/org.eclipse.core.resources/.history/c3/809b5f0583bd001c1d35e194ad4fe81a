@@ -1,0 +1,6 @@
+package Toast.problem;
+
+public enum ToastProblem {
+	
+//	SausageCheeseToast ve SausageCheeseDomatoToast nasıl oluşturulur?
+}

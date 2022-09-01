@@ -1,0 +1,5 @@
+package DoubleCheckedLockingSingleton;
+
+public enum Notes {
+
+}

@@ -1,0 +1,6 @@
+package computerSolution5;
+
+public enum Notes {
+
+	//TODO GEÇ YÜKLEME -- LAZY LOADING
+}

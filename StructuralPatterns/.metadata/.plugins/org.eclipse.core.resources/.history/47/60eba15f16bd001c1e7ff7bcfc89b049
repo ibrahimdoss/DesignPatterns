@@ -1,0 +1,9 @@
+package BasbakanSolution2;
+
+public enum SolutionNotes {
+	
+	Vatandas’ın gerçek Basbakan’la bağımlılığını soyut hale getirip
+	araya aynı arayüze sahip bir vekil nesne konduğunda ortaya şu model
+	çıkar: CD.png image icinde.
+
+}

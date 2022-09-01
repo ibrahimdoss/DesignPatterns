@@ -1,0 +1,5 @@
+package Singleton.singletonExample;
+
+public class Singleton {
+
+}

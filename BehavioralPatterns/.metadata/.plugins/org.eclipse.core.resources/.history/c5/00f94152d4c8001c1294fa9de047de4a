@@ -1,0 +1,9 @@
+package mementoPattern1;
+
+public enum Notes {
+
+//	Bu örnekte Memento bir threaddir ve zaman zaman Originator’un
+//	durumunu kaydeder ya da geri alıp bir önceki duruma geri döndürür.
+//	
+//	OriginatorTrigger ise sürekli Originator’ın durumunu değiştirir
+}

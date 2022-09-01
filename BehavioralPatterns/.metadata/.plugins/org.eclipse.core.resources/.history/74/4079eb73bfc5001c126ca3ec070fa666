@@ -1,0 +1,5 @@
+package templateMethodTask;
+
+public enum TaskInfoNotes {
+
+}

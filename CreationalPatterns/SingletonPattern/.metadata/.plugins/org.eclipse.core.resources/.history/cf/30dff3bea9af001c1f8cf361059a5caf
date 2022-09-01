@@ -1,0 +1,7 @@
+package ThreadLazySingleton;
+
+public enum Notes {
+
+	Birden fazla thread oluşturduk ve her bir  threadi başlatıp içinde bulunan methoda
+	gidiyoruz.
+}

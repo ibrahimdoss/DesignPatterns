@@ -1,0 +1,18 @@
+package employeeSolutionBloch;
+
+public enum Notes {
+
+//	J. Bloch Effective Java kitabında, kurucular
+//	yerine static üretici metotları tavsiye eder.
+//	
+//	 Çünkü kurucuların ayırt edici isimleri yoktur ve
+//	bu yüzden de çağrılmaları zordur, hataya
+//	açıktır.
+//	
+//	 Ama static metotların anlamlı isimleri vardır.
+//	
+//	 Nesnenin kurucuları private yapılır, nesneyi
+//	kurucuları çağıran static üretici metotlar
+//	oluşturur.
+
+}

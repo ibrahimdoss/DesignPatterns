@@ -1,0 +1,5 @@
+package visitorFileProblem2;
+
+public enum Notes {
+
+}

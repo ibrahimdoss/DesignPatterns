@@ -1,0 +1,5 @@
+package employeeSolutionFm2;
+
+public enum ParametreliFactoryMethodNotes {
+
+}

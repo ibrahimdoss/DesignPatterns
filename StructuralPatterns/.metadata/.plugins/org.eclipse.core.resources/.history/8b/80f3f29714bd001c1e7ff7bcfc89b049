@@ -1,0 +1,6 @@
+package exampleProject;
+
+public enum ProblemNotesContinue {
+
+	//Birliktelik-Bağımlılık-Değişim
+}

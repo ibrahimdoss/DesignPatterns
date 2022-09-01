@@ -1,0 +1,5 @@
+package patternSolution;
+
+public enum Notes {
+
+}

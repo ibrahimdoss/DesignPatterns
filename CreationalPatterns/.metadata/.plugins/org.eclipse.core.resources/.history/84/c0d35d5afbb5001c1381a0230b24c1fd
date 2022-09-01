@@ -1,0 +1,20 @@
+package computerSolution3;
+
+public enum Notes {
+
+	//TODO ZİNCİRLİ OLUSTURMA
+	
+//	Nesneyi bina etme sürecinde, parçaların nesneye eklenmesi önemli
+//	olabilir,
+//	
+//			Örneğin bazı istemciler ekransız bilgisayar isteyebilirler.
+//	
+//	 Bu durumda builder arayüzü parçaları ekleyen metotlara sahip olur.
+//	
+//	 Ayrıca nesneyi bina etme sürecindeki metotlar hep aynı bina edici
+//	nesneyi döndürürlerse bina eden kod süreci bir zincir şeklinde
+//	yazılabilir.
+//	
+//	 	Bu kullanım daha yeni APIlerde sık görülür.
+	
+}

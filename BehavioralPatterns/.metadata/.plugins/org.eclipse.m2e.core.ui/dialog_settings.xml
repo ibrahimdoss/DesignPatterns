@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\StatePattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\VisitorPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\ChainOfResponsibility"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\MediatorPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\MementoPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\ObserverPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\TemplateMethodPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\Iterator"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\CommandPattern"/>
+			<item value="C:\DesignPatternCourse\BehavioralPatterns\StrategyPattern"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

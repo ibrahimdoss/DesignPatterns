@@ -1,0 +1,14 @@
+package BillPughSingleton;
+
+public enum Notes {
+	
+//	Java 1.5 ve öncesindeki çok kanallı ortamda geç yüklemeli singleton nesne
+//	oluşturulmasındaki problemleri Bill Pugh private inner static class
+//	kullanımıyla aştı.
+//	
+//	Bu çözümde singleton nesne, inner, private ve satic bir sınıfın tek
+//	nesnesidir ve sadece getInstance metodu çağrıldığında, thread-safe
+//	olarak oluşturulur.
+//	
+//	 Çünkü getInstance metodu, bu iç sınıfın yüklenmesini sağlar.
+}

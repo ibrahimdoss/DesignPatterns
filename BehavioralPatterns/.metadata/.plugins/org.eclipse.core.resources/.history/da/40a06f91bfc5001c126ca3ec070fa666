@@ -1,0 +1,17 @@
+package templateMethodTask;
+
+public enum TaskInfoNotes {
+
+//	
+//	• Genel bir tekrarlı iş/görev (task) algoritması oluşturmak istiyoruz ve
+//	algoritmanın detaylarını şöyle belirlediğimizi düşünelim:
+//		
+//	• Önce hazırlık (prepare) yapılır,
+//	
+//	• Sonra iş (task), öncesindeki (before) ve sonrasında (after) işlerle birlikte,
+//	verilen aralıklarla yapılır,
+//	
+//	• Bu adım gerektiği kadar tekrar edilir (repetation),
+//	
+//	• Tekrarlar bitince temizlik (cleaning) yapılır.
+}

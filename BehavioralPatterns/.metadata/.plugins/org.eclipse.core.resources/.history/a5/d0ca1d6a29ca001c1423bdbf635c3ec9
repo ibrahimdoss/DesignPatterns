@@ -1,0 +1,6 @@
+package stateDoorPattern2;
+
+public enum Notes {
+	
+	Bu çözümde Door nesnelerinin durum yönetimi DoorStateManager nesnesi tarafından yapılmaktadır.
+}

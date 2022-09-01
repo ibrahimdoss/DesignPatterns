@@ -1,0 +1,5 @@
+package ThreadLazySingleton;
+
+public class ThreadedLazySingleton {
+
+}

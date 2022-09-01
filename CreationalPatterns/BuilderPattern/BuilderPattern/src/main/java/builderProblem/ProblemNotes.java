@@ -1,0 +1,28 @@
+package builderProblem;
+
+public enum ProblemNotes {
+	
+	//TODO cözümü computerSolution1 paketi icindedir.
+	
+//	Örnekteki Computer nesnesinin oluşturulması, pek çok parametre
+//	alan ve birbirine benzeyen, dolayısıyla ayırt edilmeleri pek de kolay
+//	olmayan kurucu çağrılarıyla yapılmaktadır.
+//	
+//	 Bu tip kurucu çağrılarının hataya elverişli olması bu yaklaşımın en
+//	zorlu tarafını oluşturur.
+//	
+//	 Ayrıca farklı parçalara sahip Computer nesneleri oluşturulabilir.
+//	
+//	 İstemci tüm bu detayları bilmektedir.
+	
+//	 Varsayılan kurucu ve set metotları (JavaBean) çözümü, uzun kurucu
+//	problemini başka bir probleme dönüştürmektedir.
+//	
+//	 Pek çok set metodunun çağrılmasının zorluğu yanında yapılacak
+//	yanlışlıkların, oluşturulan nesnenin durumunda problemlere yol açması
+//	da mümkündür.
+//	
+//	 Ayrıca bu yaklaşım, nesnenin durumunu değişebilir halde
+//	bırakmaktadır.
+
+}

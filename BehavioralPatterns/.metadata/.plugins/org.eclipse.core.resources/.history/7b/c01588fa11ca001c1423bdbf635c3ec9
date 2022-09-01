@@ -1,0 +1,12 @@
+package visitorFilePattern1;
+
+public enum SolutionNotes {
+	
+//	Visitor, TextFile ve XMLFile nesnelerini ziyaret edecek ziyaretçilerin arayüzüdür
+//	ve FileVisitor da onun bir gerçekleştirmesidir.
+//	
+//	• File sınıfında Visitor nesnelerini kabul eden bir accept() metodu vardır.
+	
+	
+}
+s

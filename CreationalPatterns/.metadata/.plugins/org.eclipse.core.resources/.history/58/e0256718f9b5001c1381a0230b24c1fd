@@ -1,0 +1,16 @@
+package builderProblem;
+
+public enum ProblemNotes {
+	
+//	Örnekteki Computer nesnesinin oluşturulması, pek çok parametre
+//	alan ve birbirine benzeyen, dolayısıyla ayırt edilmeleri pek de kolay
+//	olmayan kurucu çağrılarıyla yapılmaktadır.
+//	
+//	 Bu tip kurucu çağrılarının hataya elverişli olması bu yaklaşımın en
+//	zorlu tarafını oluşturur.
+//	
+//	 Ayrıca farklı parçalara sahip Computer nesneleri oluşturulabilir.
+//	
+//	 İstemci tüm bu detayları bilmektedir.
+
+}

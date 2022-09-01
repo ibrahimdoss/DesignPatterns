@@ -1,0 +1,17 @@
+package SolutionUniversityAf1;
+
+public enum Notes {
+	
+//	Nesne ailesinin üyelerinin ortak bir ataya sahip olmaları gerekmez.
+//	
+//	Yani bir önceki örnekteki Button, List, Table nesneleri, tabi olarak
+//	ortak bir ataya, Component, sahip iken, Course, Professor,
+//	Classroom, Schedule nesnelerini kullanan üniversite sistemindeki
+//	“Ders Al” sürecinde (use case) bu dört nesne Abstract Factory
+//	tarafından hep birlikte oluşturulabilir ama ortak ataları yoktur.
+	
+	
+	//Burada ki design kısmında belirtmek istenilen kısım objelerin ortak bir parenta sahip olmaları gerekmediğidir.
+	
+
+}

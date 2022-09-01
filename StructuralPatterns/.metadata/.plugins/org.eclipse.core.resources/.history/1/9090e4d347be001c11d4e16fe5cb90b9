@@ -1,0 +1,11 @@
+
+package BasicPattern;
+
+/**
+ * @author akin
+ *
+ */
+public interface AnAbstrationImplementation {
+	
+	public void doingIt();
+}

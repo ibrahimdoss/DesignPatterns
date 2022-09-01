@@ -1,0 +1,40 @@
+package compositeGraphic;
+
+public enum SolutionNotes {
+	
+	//TODO
+	//buradaki örnekte sekiller iceren bir grafik sistemi demosu düsünelim.
+	
+	//Bu sistemde Circle ya da Rectangle gibi değişik şekiller yanında
+	//birden fazla şekli kendi üzerinde tutan Canvas nesnesi de vardır.
+	
+//	Canvas nesnesi hem Circle ya da Rectangle gibi bir grafik nesnesidir
+//	hem de bu tür grafik nesnelerine sahip bir torba (collection) nesnedir.
+	
+	Canvas hem bir Graphic/GraphicObject’tir hem de CompositeGraphic’tir.
+	
+//	Canvas’ın draw(), erase() ve paint() metotları Canvas’ın torbasında tuttuğu tüm diğer 
+//	Graphic nesnelerini yönetir.
+	
+	
+	
+	
+	
+	
+	
+//	Composite kalıbında, öncelikle parçalar ile bütünün ortak bir arayüze
+//	sahip olması sağlanır.
+//	
+//	 Bu durumda istemci bileşik nesneyi de parçaları da aynı şekilde kullanır.
+//	
+//	 Sonrasında, bileşik nesne ile parçalar arasındaki ilişki düzenlenir.
+//	
+//	 Bu amaçla bileşik nesnenin bir torba (collection) arayüzüne sahip olması
+//	sağlanır.
+//	
+//	 Dolayısıyla istemci, bütün-parça ilişkisinin karmaşıklığından uzak tutulur
+//	ve parçalar ile uğraşmayıp, sadece bütün ile iletişimde bulunur.
+	
+	
+
+}

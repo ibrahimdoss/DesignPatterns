@@ -1,0 +1,9 @@
+package ToastSolution;
+
+public enum SolutionNotesContinue {
+	
+//	• Bu çözümde farklı içerikteki tostların fiyatının nasıl hesaplanacağı modellenmiştir.
+	
+//	• Bundan dolayı Toastable‘ın calculatePrice() metodu tüm alt sınıflar tarafından override edilir.
+
+}

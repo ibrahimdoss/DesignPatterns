@@ -1,0 +1,18 @@
+package BasbakanSolution1;
+
+public enum SolutionNotes {
+	
+	//TODO bunun da cözümü BasbakanSolution2 paketi icindedir.
+	
+//	• Araya bir Vekil nesnesi koyup bu sıkıntılardan kurtulabiliriz.
+//	
+//	• Fakat bu durumda da demokrasinin en temel prensibini ihlal etmiş
+//	oluruz:	
+	
+	//TODO PROBLEM.
+//	• Vatandas, Basbakan’a doğrudan ulaşamamaktadır
+	//UML'i "solutionnotes.png" icinde belirtilmistir.
+	
+	
+	
+}

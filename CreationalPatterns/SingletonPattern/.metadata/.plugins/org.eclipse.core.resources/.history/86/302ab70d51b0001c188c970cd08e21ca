@@ -1,0 +1,41 @@
+package DoubleCheckedLockingSingleton;
+
+public enum Notes {
+	
+//	Singleton nesneye olan referansın null olup olmadığının, birisi kilitli
+//	blokta diğeri ise öncesinde olmak üzere iki defa kontrol edildiği çözüme
+//	Double-Checked Locking kalıbı denir.
+//	
+//	 Burada iki defa null kontrolü yapılmaktadır.
+//	
+//	 Mutex lock null kontrolü, singleton nesne oluşuncaya kadar çalışır.
+//	
+//	 Singleton nesne thread-safe olarak oluşturulduktan sonra çalışma ilk null
+//	kontrolü true döndüreceğinden bir daha mutex lock alanına girmez.
+//	
+//	 Bu da performans kazanımı sağlar.
+	
+	
+	//TODO: PROBLEM
+		//Double-Checked Locking problemlidir.
+			
+		//	 Java SE 1.5 öncesi sürümlerde, JVM’in bellek modeli ile ilgili
+		//	davranışından dolayı, bu çözüm de birden fazla nesnenin üretildiği
+		//	durumlara izin verebiliyordu.
+		//	
+		//	 Bu durumun sebebi ise JVM’in performans optimizasyonu amacıyla
+		//	bytecode seviyesinde yaptığı bazı değişikliklerdi.
+		//	
+		//	 java Se 1.5 ile bellek modeli (memory model) ve “happens before” ilişkisi
+		//	tekrar düzenlendi ve ****volatile kullanımıyla bu pğroblem önlendi
+	
+	
+	
+//	Double-Checked Locking’in problemini düzeltmek için singleton
+//	nesnesinin referansı volatile tanımlanır.
+//	
+//	 Bu durumda nesneyi ilk defa oluşturma şansı elde eden kanalın yerel
+//	(local) belleğindeki bu durum, volatile tanımlanmasından dolayı,
+//	bütün kanalların ulaştığı ortak belleğe aktarılır ve bir başka kanal artık
+//	null olmayan singleton referansından haberdar olur.
+}

@@ -1,0 +1,12 @@
+package ComputerSolution;
+
+public enum SolutionNotes {
+	
+//	• Bu durumda, alt sistemin işleyişindeki iş mantığı süreçlerini, algoritma
+//	ve iş kurallarıyla birlikte, tüm detaylarını bilen bir ara (intermediary)
+//	nesne, Façade, istemciyi, süreci yerine getiren nesnelerden yalıtmakta
+//	kullanılır.
+//	
+//	• Façade sistemlerin ve alt sistemlerin ön yüzü olur.
+
+}

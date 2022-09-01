@@ -1,0 +1,10 @@
+package exampleProject;
+
+public enum SolutionNotes {
+	
+//	• Araya bir Vekil nesnesi koyup bu sıkıntılardan kurtulabiliriz.
+//	
+//	• Fakat bu durumda da demokrasinin en temel prensibini ihlal etmiş
+//	oluruz:	
+//	• Vatandas, Basbakan’a doğrudan ulaşamamaktadır
+}

@@ -1,0 +1,23 @@
+package accountSolution3;
+
+public enum Notes {
+	
+//	 İstenirse nesnelerin belirli durumları için farklı farklı prototipler üretilir.
+//	
+//	 Çok sık kullanılan nesne durumları için prototip üretildiğinde,
+//	prototipten çoğaltılan nesne üzerinde yapılacak durum değişiklikleri
+//	azalacaktır.
+//	
+//	 Farklı durumda nesne üreten factory metotlarını kullanarak istemcinin
+//	nesne durumlarına bağımlılığı azalacaktır.
+//	
+//	 Çok sayıda prototip, çok sayıda iyi isimlendirilmiş factory metodu ile
+//	oluşturulacaktır.
+	
+//	Bu örnekte nesneler AccountFactory tarafından üretilmektedir.
+//	
+//	AccountFactory, Account’un pek çok prototip nesnesine sahiptir.
+//	
+//	İstemci istediği durumdaki nesneyi AccountFactory’den almaktadır
+
+}

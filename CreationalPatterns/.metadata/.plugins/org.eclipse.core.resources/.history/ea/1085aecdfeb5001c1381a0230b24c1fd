@@ -1,0 +1,14 @@
+package computerSolution6;
+
+public enum Notes {
+
+	//TODO SAFHALI BUİLD
+	
+//	Nesneyi inşa etme sürecinde farklı safhalar söz konusu ve bu safhalar
+//	arasında bir sıra da var ise bu durumda farklı builder nesneleri kullanılabilir.
+//	
+//	 Bu durumda safhaların builder nesneleri farklı parçalara sahip nesneler 
+//	 ürettiği gibi safhalar arasında ilişkiler de kurulabilir.
+//	 
+//	 Bu türden safhalı bina etme karmaşık nesnelerin oluşturulmasında sık görülen bir durumdur.
+}

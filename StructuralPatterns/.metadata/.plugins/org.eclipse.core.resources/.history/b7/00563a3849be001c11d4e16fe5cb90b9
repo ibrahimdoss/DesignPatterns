@@ -1,0 +1,17 @@
+package BasicPattern;
+
+public enum SolutionNotes {
+	
+	
+	
+	
+	
+	
+	
+//	• AnAbstraction bir soyutlamadır ve ASubAbstraction da alt soyutlamasıdır.
+//	
+//	• Ama gerçekleştirmeler ayrı bir hiyerarşide oluşturulmuştur.
+//	
+//	• Soyutlamalar ile gerçekleştirmeler arasındaki bağımlılık is-a’den has-a’ye çevrilmiş ve düşürülmüştür.
+
+}

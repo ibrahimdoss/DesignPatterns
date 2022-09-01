@@ -1,0 +1,27 @@
+package Singleton.singletonExample;
+
+public class SingletonClient {
+	
+	public static void main(String[] args) {
+		for (int i = 0; i<10; i++){
+			Singleton s = Singleton.getInstance();
+			s.printName();
+		}
+		
+		Singleton s1 = Singleton.getInstance();
+		System.out.println("\nHashcode: " + s1.hashCode());
+		
+		Singleton s2 = Singleton.getInstance();
+		System.out.println("Hashcode: " + s2.hashCode());
+		
+		if(s1 == s2)
+			System.out.println("\nThe same object!");
+		else
+			System.out.println("Different objects!");
+	}
+	
+	
+}
+//yukarıdaki kod çalıştığında 10 tane singleton1 yazıyor ve bi tane oluşturuyor
+//bunların objelerinin de bir tane olduğunu görmek için de if ile s1==s2 kontrolü
+//yapıyoruz ve hashcode'ları da aynı geliyor.

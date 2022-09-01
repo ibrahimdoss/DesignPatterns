@@ -1,0 +1,6 @@
+package employeeProblem;
+
+public enum Notes {
+	
+	Örnek olarak farklı tipte çalışanların "employee" oldugu bir fabrika düsünelim.
+}

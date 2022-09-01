@@ -1,0 +1,16 @@
+package accountSolution2;
+
+public enum Notes {
+
+//	Bu örnekte nesneler AccountFactory tarafından üretilmektedir.
+//	
+//	 Bundan dolayı AccountFactory, Account’un prototip nesnesine
+//	sahiptir.
+//	
+	
+	//TODO PROBLEM
+//	 Ama Account’un farklı durumda prototip nesnelerine sahip
+//	olmadığından hala istemciye nesneyi istenilen duruma getirme görevi
+//	düşmektedir.
+//	
+}

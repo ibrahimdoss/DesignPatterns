@@ -1,0 +1,5 @@
+package ThreadSafeLazySingleton;
+
+public enum Notes {
+
+}

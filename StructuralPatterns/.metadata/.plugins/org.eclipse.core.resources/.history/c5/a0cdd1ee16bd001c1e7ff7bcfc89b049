@@ -1,0 +1,36 @@
+package exampleProjectBasbakan;
+
+public enum ProblemNotes {
+	//************TODO
+	//Problemin devamı ve örnek ile alakalı notların devamı "ProblemNotesContinue" icindedir.
+	
+	
+//	• Demokrasilerde vatandaşların kendilerini yönetenlere ulaşma hakları vardır,
+//	
+//	• Başbakan’ın da en tepe yönetici olarak vatandaşları dinleme zorunluluğu
+//	vardır,
+//	
+//	• Ama Başbakan’ın 80M kişiyle görüşmesi hem imkansızdır hem de uygun
+//	değildir,
+//	
+	//TODO
+//	• Bu durumda vatandaşların Başbakan’la görüşme haklarını nasıl yönetiriz?
+	
+	
+//	Sistemde bulunacak sorumluluklar:
+		//TODO
+//	 Basbakan
+//		dert dinlemek
+//		iş bulmak
+		
+		//TODO
+//		 Vatandas
+//			 Başbakan’a derdini anlatmak
+//		 	Başbakan’dan iş istemek
+	
+//	Ayrıca Basbakan’ın şu sorumluluklarının olduğu da düşünülebilir:
+//		 istekleri ayıklamak
+//		 istekleri çözmek
+	//Çözüm image.png olarak baz alınabilir.
+
+}

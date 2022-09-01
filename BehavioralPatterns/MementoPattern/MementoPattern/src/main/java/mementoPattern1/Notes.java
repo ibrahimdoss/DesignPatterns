@@ -1,0 +1,18 @@
+package mementoPattern1;
+
+public enum Notes {
+	//TODO bunun cözümü mementoPattern2 paketi icindedir.
+	
+	
+	//TODO *** important burasıyla alakalı notların bir kısmı da  örnek dosya icinde  vardır.
+
+//	Bu örnekte Memento bir threaddir ve zaman zaman Originator’un
+//	durumunu kaydeder ya da geri alıp bir önceki duruma geri döndürür.
+//	
+//	OriginatorTrigger ise sürekli Originator’ın durumunu değiştirir
+	
+//	• Memento, Originator’ın iç sınıfı yapılırsa, Originator’ın
+//	durumunu dışarıya getState() ile vermesinin de önüne geçilebilir.
+//	
+//	• Bu durumda Originator’ın durumu tarihsel olarak sadece Memento’dan alınabilir.
+}

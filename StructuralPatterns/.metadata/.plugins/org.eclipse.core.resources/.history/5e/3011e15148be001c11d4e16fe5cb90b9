@@ -1,0 +1,19 @@
+
+public enum BridgePatternSolution {
+
+	
+	
+	Buradaki has-a iliskisi bridge olur.
+	
+	
+	
+	• Bridge kalıbı, soyutlamalar ile onların gerçekleştirmeleri arasında tabi
+	durumda var olan is-a ilişkisini, has-a ilişkisine çevirir.
+	
+	•***** Bu durumda soyutlamalar ve gerçekleştirmeleri ayrı hiyerarşilerde
+	tutulur.
+	
+	• Aralarında has-a ilişkisi olur.
+	
+	• Bu şekilde iki tarafın arasındaki bağımlılığı azaltmayı hedefler.
+}

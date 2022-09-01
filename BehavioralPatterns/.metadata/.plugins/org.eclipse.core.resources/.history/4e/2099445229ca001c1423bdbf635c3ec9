@@ -1,0 +1,5 @@
+package stateDoorPattern1;
+
+public enum Notes {
+
+}

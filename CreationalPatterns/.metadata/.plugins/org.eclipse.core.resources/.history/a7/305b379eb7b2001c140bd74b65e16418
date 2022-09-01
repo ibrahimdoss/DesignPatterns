@@ -1,0 +1,8 @@
+package employeeProblem;
+
+public enum Notes {
+	
+	Örnek olarak farklı tipte çalışanların "employee" oldugu bir fabrika düsünelim.
+	
+	Fabrikada HR ve PayrollOffice nesneleri de var.
+}
